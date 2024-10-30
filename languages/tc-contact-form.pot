@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2015-03-23 11:56+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: tc-contact-form.php:27
+msgid "Please select"
+msgstr ""
+
+#: tc-contact-form.php:28
+msgid "Mr."
+msgstr ""
+
+#: tc-contact-form.php:29
+msgid "Ms."
+msgstr ""
+
+#: tc-contact-form.php:37
+msgid "Some details are wrong. Please check the red fields."
+msgstr ""
+
+#: tc-contact-form.php:67
+msgid "The captcha is wrong!"
+msgstr ""
+
+#: tc-contact-form.php:70 tc-contact-form.php:132
+msgid "An error occurred. Your message could not be sent. Please try again later."
+msgstr ""
+
+#: tc-contact-form.php:148
+msgid "Your message was received."
+msgstr ""
+
+#: tc-contact-form.php:156
+msgid "Salutation"
+msgstr ""
+
+#: tc-contact-form.php:183
+msgid "Name"
+msgstr ""
+
+#: tc-contact-form.php:199
+msgid "Email"
+msgstr ""
+
+#: tc-contact-form.php:215
+msgid "Message"
+msgstr ""
+
+#: tc-contact-form.php:236
+msgid "Attachment"
+msgstr ""
+
+#: tc-contact-form.php:258
+msgid "Submit"
+msgstr ""
+
+#: tc-contact-form.php:272
+msgid "This plugin provides a contact form in order to send messages including file attachments. Optionally, the contact form can be protected with Google-Recaptcha. To show the contact form, simply put the following shortcode in the text at the desired location on the desired page"
+msgstr ""
+
+#: tc-contact-form.php:273
+msgid "Example"
+msgstr ""
+
+#: tc-contact-form.php:273
+msgid "Screenshot"
+msgstr ""
+
+#: tc-contact-form.php:275
+msgid "To see a live sample of the frontend, just visit the following page"
+msgstr ""
+
+#: tc-contact-form.php:276
+msgid "If you need some changes to this or other plugins, contact me"
+msgstr ""
+
+#: tc-contact-form.php:277
+msgid "Who like this plugin and has some money left, can also donate"
+msgstr ""
+
+#: tc-contact-form.php:289
+msgid "Receiver email address"
+msgstr ""
+
+#: tc-contact-form.php:291
+msgid "Specify the receiver email address. The form data will be send to this email address."
+msgstr ""
+
+#: tc-contact-form.php:296
+msgid "Email address for Return-Path"
+msgstr ""
+
+#: tc-contact-form.php:298
+msgid "This is optional. If specified, this email address will be used as Return-Path in the email header."
+msgstr ""
+
+#: tc-contact-form.php:303
+msgid "Subject"
+msgstr ""
+
+#: tc-contact-form.php:305
+msgid "This is optional. If specified, this line will be used as subject of the email. "
+"Otherwise, the following subject will be used"
+msgstr ""
+
+#: tc-contact-form.php:313
+msgid "Text field lines"
+msgstr ""
+
+#: tc-contact-form.php:315
+msgid "Specifies the number of lines of the text field. "
+"This value is interpreted different in different browsers. Default value is 12."
+msgstr ""
+
+#: tc-contact-form.php:320
+msgid "Attachments"
+msgstr ""
+
+#: tc-contact-form.php:322
+msgid "Number of attachments used in the form."
+msgstr ""
+
+#: tc-contact-form.php:332
+msgid "Use Recaptcha"
+msgstr ""
+
+#: tc-contact-form.php:334
+msgid "If checked, Googles Recaptcha will be used. Please, also specify the Website-Key and Secret-Key."
+msgstr ""
+
+#: tc-contact-form.php:339
+msgid "Recaptcha Website-Key"
+msgstr ""
+
+#: tc-contact-form.php:341
+msgid "The Website-Key you will get from Google"
+msgstr ""
+
+#: tc-contact-form.php:346
+msgid "Recaptcha Secret-Key"
+msgstr ""
+
+#: tc-contact-form.php:348
+msgid "The Secret-Key you will get from Google"
+msgstr ""

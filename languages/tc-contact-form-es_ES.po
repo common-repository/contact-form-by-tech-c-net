@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2018-09-30 12:19+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: tc-contact-form.php:27
+msgid "Please select"
+msgstr "Por favor selecciona"
+
+#: tc-contact-form.php:28
+msgid "Mr."
+msgstr "Sr."
+
+#: tc-contact-form.php:29
+msgid "Ms."
+msgstr "Sra."
+
+#: tc-contact-form.php:37
+msgid "Some details are wrong. Please check the red fields."
+msgstr "Algunos detalles son incorrectos. Por favor revisa los campos rojos."
+
+#: tc-contact-form.php:67
+msgid "The captcha is wrong!"
+msgstr "¡El captcha está mal!"
+
+#: tc-contact-form.php:70 tc-contact-form.php:132
+msgid ""
+"An error occurred. Your message could not be sent. Please try again later."
+msgstr ""
+"Ocurrió un error. Su mensaje no pudo ser enviado. Por favor, inténtelo de "
+"nuevo más tarde."
+
+#: tc-contact-form.php:148
+msgid "Your message was received."
+msgstr "Su mensaje fue recibido."
+
+#: tc-contact-form.php:156
+msgid "Salutation"
+msgstr "Tratamiento"
+
+#: tc-contact-form.php:183
+msgid "Name"
+msgstr "Nombre"
+
+#: tc-contact-form.php:199
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: tc-contact-form.php:215
+msgid "Message"
+msgstr "Mensaje"
+
+#: tc-contact-form.php:236
+msgid "Attachment"
+msgstr "Adjunto archivo"
+
+#: tc-contact-form.php:258
+msgid "Submit"
+msgstr "Enviar"
+
+#: tc-contact-form.php:272
+msgid ""
+"This plugin provides a contact form in order to send messages including file "
+"attachments. Optionally, the contact form can be protected with Google-"
+"Recaptcha. To show the contact form, simply put the following shortcode in "
+"the text at the desired location on the desired page"
+msgstr ""
+"Este complemento proporciona un formulario de contacto para enviar mensajes "
+"que incluyen archivos adjuntos. Opcionalmente, el formulario de contacto se "
+"puede proteger con Google-Recaptcha. Para mostrar el formulario de contacto, "
+"simplemente coloque el shortcode breve en el texto en la ubicación deseada "
+"en la página deseada"
+
+#: tc-contact-form.php:273
+msgid "Example"
+msgstr "Ejemplo"
+
+#: tc-contact-form.php:273
+msgid "Screenshot"
+msgstr "Captura de pantalla"
+
+#: tc-contact-form.php:275
+msgid "To see a live sample of the frontend, just visit the following page"
+msgstr ""
+"Para ver una muestra en vivo de la interfaz, solo visite la siguiente página"
+
+#: tc-contact-form.php:276
+msgid "If you need some changes to this or other plugins, contact me"
+msgstr ""
+"Si necesita algunos cambios a este u otros complementos, póngase en contacto "
+"conmigo"
+
+#: tc-contact-form.php:277
+msgid "Who like this plugin and has some money left, can also donate"
+msgstr ""
+"A quién le gusta este complemento y le queda algo de dinero, también puede "
+"donar"
+
+#: tc-contact-form.php:289
+msgid "Receiver email address"
+msgstr "Dirección de correo electrónico del destinatario"
+
+#: tc-contact-form.php:291
+msgid ""
+"Specify the receiver email address. The form data will be send to this email "
+"address."
+msgstr ""
+"Especifique la dirección de correo electrónico del receptor. Los datos del "
+"formulario se enviarán a esta dirección de correo electrónico."
+
+#: tc-contact-form.php:296
+msgid "Email address for Return-Path"
+msgstr "Dirección de correo electrónico para Return-Path"
+
+#: tc-contact-form.php:298
+msgid ""
+"This is optional. If specified, this email address will be used as Return-"
+"Path in the email header."
+msgstr ""
+"Esto es opcional. Si se especifica, esta dirección de correo electrónico se "
+"usará como ruta de retorno en el encabezado del correo electrónico."
+
+#: tc-contact-form.php:303
+msgid "Subject"
+msgstr "Tema"
+
+#: tc-contact-form.php:305
+msgid ""
+"This is optional. If specified, this line will be used as subject of the "
+"email. Otherwise, the following subject will be used"
+msgstr ""
+"Esto es opcional. Si se especifica, esta línea se usará como asunto del "
+"correo electrónico. De lo contrario, se utilizará el siguiente tema"
+
+#: tc-contact-form.php:313
+msgid "Text field lines"
+msgstr "Líneas de campo de texto"
+
+#: tc-contact-form.php:315
+msgid ""
+"Specifies the number of lines of the text field. This value is interpreted "
+"different in different browsers. Default value is 12."
+msgstr ""
+"Especifica el número de líneas del campo de texto. Este valor se interpreta "
+"de manera diferente en diferentes navegadores. El valor predeterminado es 12."
+
+#: tc-contact-form.php:320
+msgid "Attachments"
+msgstr "Archivos adjuntos"
+
+#: tc-contact-form.php:322
+msgid "Number of attachments used in the form."
+msgstr "Número de archivos adjuntos utilizados en el formulario."
+
+#: tc-contact-form.php:332
+msgid "Use Recaptcha"
+msgstr "Utilizar Recaptcha"
+
+#: tc-contact-form.php:334
+msgid ""
+"If checked, Googles Recaptcha will be used. Please, also specify the Website-"
+"Key and Secret-Key."
+msgstr ""
+"Si está marcado, se usará Google Recaptcha. Por favor, también especifique "
+"la clave del sitio web y la clave secreta."
+
+#: tc-contact-form.php:339
+msgid "Recaptcha Website-Key"
+msgstr "Recaptcha Website-Key"
+
+#: tc-contact-form.php:341
+msgid "The Website-Key you will get from Google"
+msgstr "La clave del sitio web que recibirá de Google"
+
+#: tc-contact-form.php:346
+msgid "Recaptcha Secret-Key"
+msgstr "Recaptcha Secret-Key"
+
+#: tc-contact-form.php:348
+msgid "The Secret-Key you will get from Google"
+msgstr "La clave secreta que obtendrás de Google"

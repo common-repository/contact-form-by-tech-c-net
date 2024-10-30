@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2018-09-30 12:24+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: tc-contact-form.php:27
+msgid "Please select"
+msgstr "選んでください"
+
+#: tc-contact-form.php:28
+msgid "Mr."
+msgstr "氏"
+
+#: tc-contact-form.php:29
+msgid "Ms."
+msgstr "ミズ"
+
+#: tc-contact-form.php:37
+msgid "Some details are wrong. Please check the red fields."
+msgstr "いくつかの詳細は間違っています。 赤い欄を確認してください。"
+
+#: tc-contact-form.php:67
+msgid "The captcha is wrong!"
+msgstr "Captchaは間違っています！"
+
+#: tc-contact-form.php:70 tc-contact-form.php:132
+msgid ""
+"An error occurred. Your message could not be sent. Please try again later."
+msgstr ""
+"エラーが発生しました。 メッセージを送信できませんでした。 後でもう一度お試し"
+"ください。"
+
+#: tc-contact-form.php:148
+msgid "Your message was received."
+msgstr "あなたのメッセージは受信されました。"
+
+#: tc-contact-form.php:156
+msgid "Salutation"
+msgstr "敬称"
+
+#: tc-contact-form.php:183
+msgid "Name"
+msgstr "名前"
+
+#: tc-contact-form.php:199
+msgid "Email"
+msgstr "電子メール アドレス"
+
+#: tc-contact-form.php:215
+msgid "Message"
+msgstr "メッセージ"
+
+#: tc-contact-form.php:236
+msgid "Attachment"
+msgstr "アタッチメント"
+
+#: tc-contact-form.php:258
+msgid "Submit"
+msgstr "送信"
+
+#: tc-contact-form.php:272
+msgid ""
+"This plugin provides a contact form in order to send messages including file "
+"attachments. Optionally, the contact form can be protected with Google-"
+"Recaptcha. To show the contact form, simply put the following shortcode in "
+"the text at the desired location on the desired page"
+msgstr ""
+"このプラグインは添付ファイルを含むメッセージを送信するための連絡フォームを提"
+"供します。 任意で、Google-Recaptchaで連絡先フォームを保護することができま"
+"す。 連絡先フォームを表示するには、目的のページの目的の場所にあるテキストに次"
+"のショートコードを挿入します"
+
+#: tc-contact-form.php:273
+msgid "Example"
+msgstr "例"
+
+#: tc-contact-form.php:273
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+#: tc-contact-form.php:275
+msgid "To see a live sample of the frontend, just visit the following page"
+msgstr ""
+"フロントエンドのライブサンプルを見るには、次のページにアクセスしてください"
+
+#: tc-contact-form.php:276
+msgid "If you need some changes to this or other plugins, contact me"
+msgstr ""
+"このプラグインまたは他のプラグインに変更が必要な場合は、私に連絡してください"
+
+#: tc-contact-form.php:277
+msgid "Who like this plugin and has some money left, can also donate"
+msgstr "このプラグインが好きで、残ったお金もありますし、寄付することもできます"
+
+#: tc-contact-form.php:289
+msgid "Receiver email address"
+msgstr "受信者の電子メールアドレス"
+
+#: tc-contact-form.php:291
+msgid ""
+"Specify the receiver email address. The form data will be send to this email "
+"address."
+msgstr ""
+"受信者の電子メールアドレスを指定します。 フォームデータはこのメールアドレスに"
+"送信されます。"
+
+#: tc-contact-form.php:296
+msgid "Email address for Return-Path"
+msgstr "Return-Pathの電子メールアドレス"
+
+#: tc-contact-form.php:298
+msgid ""
+"This is optional. If specified, this email address will be used as Return-"
+"Path in the email header."
+msgstr ""
+"これはオプションです。 指定されている場合、この電子メールアドレスは電子メール"
+"ヘッダーのReturn-Pathとして使用されます。"
+
+#: tc-contact-form.php:303
+msgid "Subject"
+msgstr "件名"
+
+#: tc-contact-form.php:305
+msgid ""
+"This is optional. If specified, this line will be used as subject of the "
+"email. Otherwise, the following subject will be used"
+msgstr ""
+"これはオプションです。 指定されている場合、この行は電子メールの件名として使用"
+"されます。 それ以外の場合は、次の項目が使用されます"
+
+#: tc-contact-form.php:313
+msgid "Text field lines"
+msgstr "テキストフィールド行"
+
+#: tc-contact-form.php:315
+msgid ""
+"Specifies the number of lines of the text field. This value is interpreted "
+"different in different browsers. Default value is 12."
+msgstr ""
+"テキストフィールドの行数を指定します。 この値はブラウザによって異なると解釈さ"
+"れます。 デフォルト値は12です。"
+
+#: tc-contact-form.php:320
+msgid "Attachments"
+msgstr "添付ファイル"
+
+#: tc-contact-form.php:322
+msgid "Number of attachments used in the form."
+msgstr "フォームで使用されている添付ファイルの数。"
+
+#: tc-contact-form.php:332
+msgid "Use Recaptcha"
+msgstr "Recaptchaを使用する"
+
+#: tc-contact-form.php:334
+msgid ""
+"If checked, Googles Recaptcha will be used. Please, also specify the Website-"
+"Key and Secret-Key."
+msgstr ""
+"オンにすると、GoogleのRecaptchaが使用されます。 ウェブサイトキーとシークレッ"
+"トキーも指定してください。"
+
+#: tc-contact-form.php:339
+msgid "Recaptcha Website-Key"
+msgstr "Recaptchaウェブサイトキー"
+
+#: tc-contact-form.php:341
+msgid "The Website-Key you will get from Google"
+msgstr "Googleから得られるウェブサイトキー"
+
+#: tc-contact-form.php:346
+msgid "Recaptcha Secret-Key"
+msgstr "Recaptcha Secret-Key"
+
+#: tc-contact-form.php:348
+msgid "The Secret-Key you will get from Google"
+msgstr "秘密鍵はGoogleから入手します"
